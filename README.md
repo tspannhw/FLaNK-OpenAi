@@ -69,4 +69,6 @@ https://api.openai.com/v1/chat/completions
 * https://platform.openai.com/docs/guides/text-generation
 
 * https://platform.openai.com/docs/api-reference
+  
+* https://openai.com/pricing#language-models
 
