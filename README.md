@@ -47,9 +47,26 @@ Remember to handle errors and edge cases appropriately in your flow.
 This is a basic outline, and depending on your specific use case, you may need additional processors or configurations. Make sure to refer to the OpenAI API documentation for the specifics of using their service with the GPT model you choose.
 
 
+#### Links
+
+
+https://status.openai.com/
+
+### OpenAI REST API
+
+
+https://api.openai.com/v1/models
+
+https://api.openai.com/v1/chat/completions
 
 
 #### References
 
-https://platform.openai.com/docs/overview
+* https://platform.openai.com/docs/overview
+
+* https://platform.openai.com/docs/introduction
+
+* https://platform.openai.com/docs/guides/text-generation
+
+* https://platform.openai.com/docs/api-reference
 
